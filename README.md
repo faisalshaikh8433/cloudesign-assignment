@@ -12,3 +12,4 @@
   - email2: **normal@gmail.com**
   - password : **password**
 - run test using **php artisan test**
+- Add symlink for storing product photo on local driver. **php artisan storage:link**
