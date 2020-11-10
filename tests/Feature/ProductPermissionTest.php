@@ -7,7 +7,7 @@ use App\Models\User;
 use Tests\TestCase;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
-class ProductCrudAllowedTest extends TestCase
+class ProductPermissionTest extends TestCase
 {
     use RefreshDatabase;
 
