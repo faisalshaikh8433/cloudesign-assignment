@@ -1,4 +1,4 @@
-- Product listing page and only **admin can view, create, edit, delete**.
+- Product listing page with only **admin can view, create, edit, delete** feature.
 - Implemented repository pattern for the **Product model**.
 - Added two unit tests and one feature test.
 - For setting up a database with dummy data run **php artisan migrate:refresh --seed**.
