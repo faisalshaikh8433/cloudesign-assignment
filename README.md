@@ -5,5 +5,5 @@
 - Products and two users are created one admin and another normal.
   - email1: **admin@gmail.com**
   - email2: **normal@gmail.com**
-  - password : **password**
+  - password : **password**
 - run test using **php artisan test**
