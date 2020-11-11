@@ -1,7 +1,8 @@
 - Product listing page with only **admin can view, create, edit, delete** feature.
 - Repository pattern for the **Product model**.
-- Includes two unit tests and one feature test.
+- Includes 3 unit tests and one feature test.
   - Unit tests:
+    - **Product belongs to an category**
     - **User is not admin**
     - **User is admin**
   - Feature tests:
